@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<componentPackage>    
+	<component class="net.seanhess.flog.SharedObjectTarget"/>
+	<component class="net.seanhess.flog.log"/>
+</componentPackage>
